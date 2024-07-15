@@ -80,6 +80,6 @@ The smart vacuum cleaner is an autonomous robotic device designed to clean floor
   - The servo motor may adjust to help with navigation.
 ## 5.Continuous Operation:
   - The vacuum cleaner continues to navigate and clean the area until turned off or the batteries are depleted.
-#Conclusion
+# Conclusion
   This smart vacuum cleaner project demonstrates the integration of various electronic components to create an autonomous cleaning device. By following this documentation, you can replicate the project and understand its workings.
 
